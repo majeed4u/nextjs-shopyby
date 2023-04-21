@@ -9,14 +9,26 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@redux-devtools/extension": "^3.2.5",
+    "@reduxjs/toolkit": "^1.9.5",
     "dotenv": "^16.0.3",
     "envalid": "^7.3.1",
     "eslint": "8.38.0",
     "eslint-config-next": "13.3.0",
     "http-status-codes": "^2.2.0",
+    "mongodb": "^5.3.0",
     "mongoose": "^7.0.4",
     "next": "13.3.0",
+    "next-redux-wrapper": "^8.1.0",
+    "pino": "^8.11.0",
+    "pino-pretty": "^10.0.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-icons": "^4.8.0",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.1",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.4.2",
+    "sass": "^1.62.0"
   }
 }
